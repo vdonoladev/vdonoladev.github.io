@@ -1,6 +1,6 @@
 ---
 title: Como desenvolver o raciocínio lógico e estimular o cérebro de forma divertida
-date: 2025-02-13T10:00:00-03:00
+date: 2025-02-13
 slug: como-desenvolver-o-raciocinio-logico-e-estimular-o-cerebro-de-forma-divertida
 description: Aprenda maneiras divertidas e eficazes de aprimorar o raciocínio lógico e manter o cérebro ativo com jogos, quebra-cabeças e atividades lúdicas.
 tags: 

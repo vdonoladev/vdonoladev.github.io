@@ -1,6 +1,6 @@
 ---
 title: Os três caminhos da vida espiritual: qual escolher?
-date: 2025-02-16T10:00:00-03:00
+date: 2025-02-16
 slug: os-tres-caminhos-da-vida-espiritual-qual-escolher
 description: "A vida espiritual pode ser vivida de três maneiras: como um caminho de devoção, como um caminho de conhecimento ou como um caminho de serviço. Cada um desses caminhos oferece uma abordagem única para a espiritualidade e pode ser escolhido com base nas inclinações pessoais."
 tags: 

@@ -1,6 +1,6 @@
 ---
 title: 9 hábitos que estão sabotando sua produtividade
-date: 2025-03-24T10:00:00-03:00
+date: 2025-03-24
 slug: 9-habitos-que-estao-sabotando-sua-produtividade
 description: Descubra os hábitos que podem estar prejudicando sua produtividade e como superá-los.
 tags:

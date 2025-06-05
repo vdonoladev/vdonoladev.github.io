@@ -1,6 +1,6 @@
 ---
 title: 3 conselhos sobre a oração que mudaram a minha rotina
-date: 2025-05-09T10:00:00-03:00
+date: 2025-05-09
 slug: 3-conselhos-sobre-a-oracao-que-mudaram-a-minha-rotina
 description: "A oração é uma prática poderosa que pode transformar a nossa vida. Aqui estão três conselhos que me ajudaram a integrar a oração na minha rotina diária."
 tags: 

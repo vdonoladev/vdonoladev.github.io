@@ -1,7 +1,7 @@
 ---
 title: Temperamentos: Refletindo sobre Generalizações e Fatalismos
 slug: temperamentos-refletindo-sobre-generalizacoes-e-fatalismos
-date: 2025-02-14T10:00:00-03:00
+date: 2025-02-14
 description: Uma análise crítica sobre a visão simplista dos temperamentos e suas implicações na compreensão humana.
 tags:
   - temperamentos

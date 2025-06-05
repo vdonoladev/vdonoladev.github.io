@@ -1,6 +1,6 @@
 ---
 title: 7 dicas essenciais para quem está começando a programar
-date: 2025-02-21T10:00:00-03:00
+date: 2025-02-21
 slug: 7-dicas-essenciais-para-quem-esta-comecando-a-programar
 description: Dicas práticas e essenciais para iniciantes na programação, desde a escolha da linguagem até a importância da prática constante.
 tags: 
