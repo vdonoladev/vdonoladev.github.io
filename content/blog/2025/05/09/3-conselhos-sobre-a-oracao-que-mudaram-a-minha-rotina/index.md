@@ -32,7 +32,7 @@ Aqui vai um ponto importante: não adianta sair acumulando orações vocais sem 
 
 Eu mesmo já caí nessa armadilha. Tinha dias em que me programava para rezar várias coisas… e no fim, rezava tudo correndo, olhando pro relógio, com a cabeça longe. Foi um padre amigo quem me deu esse puxão de orelha: “Não é o tanto que você reza, mas o quanto você ama enquanto reza.”
 
-Hoje, prefiro fazer menos, mas bem feito. E você?
+Hoje, prefiro fazer menos, mas bem feito.
 
 ### Conclusão: Rezar é viver com Deus, no que a gente é, no que a gente faz
 

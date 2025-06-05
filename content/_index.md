@@ -1,6 +1,5 @@
 ---
 title: Início
-toc: false
 ---
 
 This is the landing page.
@@ -12,6 +11,3 @@ This is the landing page.
   {{< card link="about" title="Sobre" icon="user" >}}
 {{< /cards >}}
 
-## Documentation
-
-For more information, visit [Hextra](https://imfing.github.io/hextra).
