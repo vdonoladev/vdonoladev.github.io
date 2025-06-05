@@ -1,5 +1,6 @@
 ---
 title: Início
+toc: false
 ---
 
 This is the landing page.
