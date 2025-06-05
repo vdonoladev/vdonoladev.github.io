@@ -11,3 +11,6 @@ This is the landing page.
   {{< card link="about" title="Sobre" icon="user" >}}
 {{< /cards >}}
 
+## Documentation
+
+> Explore more in: 
