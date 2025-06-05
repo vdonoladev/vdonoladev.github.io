@@ -5,7 +5,6 @@ description: Dicas práticas para estudar de forma eficaz, melhorar o aprendizad
 slug: como-estudo-para-aprender-de-verdade-dicas-para-desenvolvedores-e-estudantes
 tags:
   - Estudo
-  - Produtividade
 draft: false
 ---
 Estudar é uma das tarefas mais recorrentes na vida de um desenvolvedor, mas nem sempre é fácil manter a disciplina, a motivação e a consistência. Durante um bom tempo, eu me via procrastinando, começando cursos, fazendo algumas aulas e logo depois me sentindo entediado e parando. Isso me fez perceber que só memorizar o conteúdo não é o suficiente para aprender de verdade.
