@@ -7,6 +7,7 @@ tags:
   - produtividade
 draft: false
 ---
+
 Se você está dando os primeiros passos na programação, já percebeu que não é um caminho tão simples. Entre erros, bugs e códigos que teimam em não rodar, a frustração pode bater forte. Mas a boa notícia é que todo programador já passou por isso — e há formas de tornar essa jornada menos árdua.
 
 Aqui estão 7 dicas fundamentais para te ajudar a se desenvolver como programador e evitar os erros mais comuns dos iniciantes.

@@ -8,6 +8,7 @@ tags:
   - Produtividade
 draft: false
 ---
+
 Muita gente quer desenvolver o raciocínio lógico, seja por dificuldade pessoal ou simplesmente para se sair melhor em várias situações. A boa notícia é que existem formas bem fáceis e divertidas de fazer isso, desde jogos a hábitos simples do dia a dia. O raciocínio lógico é essencial, e é importante começar a desenvolvê-lo desde cedo, quando ainda somos crianças ou adolescentes. Mas se você está buscando maneiras de melhorar, aqui vão algumas dicas simples e eficazes:
 
 ### 1. Leitura e Escrita: 

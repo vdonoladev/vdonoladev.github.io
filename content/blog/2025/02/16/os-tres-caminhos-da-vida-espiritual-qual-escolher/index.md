@@ -7,6 +7,7 @@ tags:
   - espiritualidade
 draft: false
 ---
+
 Na base de um grande monte, existem três caminhos. Cada um representa uma forma de buscar a Deus, mas apenas um leva ao topo.
 
 ### 1. O Caminho das Consolações Humanas

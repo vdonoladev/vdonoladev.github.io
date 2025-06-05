@@ -7,6 +7,7 @@ tags:
   - produtividade
 draft: false
 ---
+
 Se tem uma coisa que aprendi ao longo dos anos é que pequenos hábitos diários fazem uma grande diferença na produtividade. Muitas vezes, sem perceber, repetimos ações que drenam nossa energia, bagunçam nosso dia e reduzem nosso foco. Aqui estão 9 hábitos que podem estar sabotando sua produtividade — e como corrigir cada um deles.
 
 ### 1️⃣ Apertar o soneca sempre que o despertador toca

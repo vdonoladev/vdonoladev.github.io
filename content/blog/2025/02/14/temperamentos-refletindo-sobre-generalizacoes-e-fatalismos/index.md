@@ -5,9 +5,9 @@ date: 2025-02-14
 description: Uma análise crítica sobre a visão simplista dos temperamentos e suas implicações na compreensão humana.
 tags:
   - temperamentos
-  - psicologia
 draft: false
 ---
+
 Antes de começar, preciso deixar algo bem claro: este post é uma OPINIÃO PESSOAL. Não gostou? Sem problemas, basta deixar de me seguir. Se eu quisesse ouvir críticas sem fundamento, adotaria um gato gago.
 
 ### 1 — Virou Horóscopo
