@@ -35,22 +35,12 @@ menu:
       weight: 5
       url: "https://www.linkedin.com/in/vdonoladev/"
       params:
-        icon: linkedin    
-    - name: Instagram
-      weight: 5
-      url: "https://www.instagram.com/vdonoladev/"
-      params:
-        icon: instagram
+        icon: linkedin
     - name: GitHub
       weight: 5
       url: "https://github.com/vdonoladev/"
       params:
         icon: github
-    - name: Twitter
-      weight: 6
-      url: "https://x.com/donoladev"
-      params:
-        icon: x-twitter
 
 params:
   navbar:
