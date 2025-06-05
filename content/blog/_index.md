@@ -1,9 +1,8 @@
 ---
-title: Documentation
-next: first-page
+title: Blog
 ---
 
-This is a demo of the theme's documentation layout.
+Aqui ficam os meus textos...
 
 ## Hello, World!
 
