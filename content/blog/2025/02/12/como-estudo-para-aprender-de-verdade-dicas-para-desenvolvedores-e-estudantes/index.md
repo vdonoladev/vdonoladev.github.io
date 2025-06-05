@@ -1,7 +1,8 @@
 ---
 title: Como estudo para aprender de verdade - dicas para desenvolvedores e estudantes
 date: 2025-02-12
-description: Dicas práticas para estudar de forma eficaz, melhorar o aprendizado e aplicar o conhecimento na prática.
+description: Dicas práticas para estudar de forma eficaz, melhorar o aprendizado
+  e aplicar o conhecimento na prática.
 slug: como-estudo-para-aprender-de-verdade-dicas-para-desenvolvedores-e-estudantes
 tags:
   - Estudo
