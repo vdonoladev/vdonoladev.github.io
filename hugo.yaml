@@ -18,13 +18,13 @@ markup:
 
 menu:
   main:
-    - name: Docs
-      pageRef: /docs
+    - name: Blog
+      pageRef: /blog
       weight: 1
-    - name: About
+    - name: Sobre
       pageRef: /about
       weight: 2
-    - name: Contact ↗
+    - name: Contato ↗
       url: "https://github.com/imfing"
       weight: 3
     - name: Search
