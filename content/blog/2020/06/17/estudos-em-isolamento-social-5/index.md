@@ -24,4 +24,3 @@ Acho que falo por todos quando digo que as últimas semanas pareciam quase incom
 Algo pelo qual sou muito grato é o esforço que os professores colocaram em usar as aulas ao longo da última semana para iniciar e encorajar discussões difíceis, mas críticas sobre tudo o que está acontecendo no mundo, bem como dedicar um tempo para nos educar sobre a história da injustiça racial.
 
 Fiquem bem!
-
