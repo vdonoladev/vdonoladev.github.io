@@ -29,8 +29,9 @@ Sou comprometido com a **melhoria contínua**, sempre buscando entregar resultad
 - Treinamento e supervisão de Jovens Aprendizes.
 - Implantação de regras e procedimentos internos.
 
-### 🖥️ **Suporte Técnico de TI (Autônomo)**  
+### 🖥️ **Autônomo**  
 📅 *Junho de 2022 – Agosto de 2024*  
+**Cargo**: Técnico de Informática
 - Manutenção e formatação de computadores.
 - Diagnóstico de redes e sistemas.
 - Atendimento técnico personalizado.
