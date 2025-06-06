@@ -6,6 +6,7 @@ description: Dicas práticas e essenciais para iniciantes na programação, desd
 tags: 
   - produtividade
 draft: false
+toc: false
 ---
 
 Se você está dando os primeiros passos na programação, já percebeu que não é um caminho tão simples. Entre erros, bugs e códigos que teimam em não rodar, a frustração pode bater forte. Mas a boa notícia é que todo programador já passou por isso — e há formas de tornar essa jornada menos árdua.

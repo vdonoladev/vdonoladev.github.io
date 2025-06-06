@@ -9,6 +9,7 @@ tags:
   - conexão com Deus
   - reflexão
 draft: false
+toc: false
 ---
 
 O ser humano, por natureza, deseja sentir-se amado e querido por aqueles ao seu redor. Quando isso não acontece da forma esperada, é comum nos sentirmos sozinhos, quase abandonados, mesmo sabendo que Deus jamais nos deixa. No entanto, ao longo da histórias, muitos santos enxergavam a solidão de maneira diferente: não como um vazio, mas como um caminho para a santificação, a purificação e a oração.

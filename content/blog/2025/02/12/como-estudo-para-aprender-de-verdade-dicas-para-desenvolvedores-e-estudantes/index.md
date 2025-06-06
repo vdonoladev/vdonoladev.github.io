@@ -1,11 +1,12 @@
 ---
-title: "Como estudo para aprender de verdade - dicas para desenvolvedores e estudantes"
+title: Como estudo para aprender de verdade - dicas para desenvolvedores e estudantes
 date: 2025-02-12
-description: "Dicas práticas para estudar de forma eficaz, melhorar o aprendizado e aplicar o conhecimento na prática."
-slug: "como-estudo-para-aprender-de-verdade-dicas-para-desenvolvedores-e-estudantes"
+description: Dicas práticas para estudar de forma eficaz, melhorar o aprendizado e aplicar o conhecimento na prática.
+slug: como-estudo-para-aprender-de-verdade-dicas-para-desenvolvedores-e-estudantes
 tags:
-  - "Estudo"
+  - Estudo
 draft: false
+toc: false
 ---
 
 Estudar é uma das tarefas mais recorrentes na vida de um desenvolvedor, mas nem sempre é fácil manter a disciplina, a motivação e a consistência. Durante um bom tempo, eu me via procrastinando, começando cursos, fazendo algumas aulas e logo depois me sentindo entediado e parando. Isso me fez perceber que só memorizar o conteúdo não é o suficiente para aprender de verdade.

@@ -10,6 +10,7 @@ tags:
   - tecnologia
   - ferramentas
 draft: false
+toc: false
 ---
 
 ### Introdução

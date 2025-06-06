@@ -13,6 +13,7 @@ tags:
   - saúde mental
   - produtividade
 draft: false
+toc: false
 ---
 
 Apenas uma semana se passou, mas para mim, estranhamente parece que estamos usando esse método de aprendizagem há muito mais tempo. Já aprendi a apreciar o fato de que agora posso acordar uma hora mais tarde do que o normal, bem como minha nova oportunidade de saborear um café recém-feito enquanto assisto a uma apresentação pré-gravada.

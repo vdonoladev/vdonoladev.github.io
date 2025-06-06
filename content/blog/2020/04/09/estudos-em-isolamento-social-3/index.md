@@ -14,6 +14,7 @@ tags:
   - produtividade
   - saúde mental
 draft: false
+toc: false
 ---
 
 Lidar com a incerteza contínua durante a pandemia está se tornando cada vez mais difícil, já que a cada dia uma nova onda de notícias e informações, e as atualizações do coronavírus dominam os ciclos de notícias nos veículos mais populares. É importante reconhecer que a cada dia precisaremos alterar nossos comportamentos, à medida que novas informações surgem e absorvemos novos conhecimentos (como higienizar sua casa, por exemplo).

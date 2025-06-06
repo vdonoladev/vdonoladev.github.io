@@ -6,6 +6,7 @@ description: Uma análise crítica sobre a visão simplista dos temperamentos e 
 tags:
   - temperamentos
 draft: false
+toc: false
 ---
 
 Antes de começar, preciso deixar algo bem claro: este post é uma OPINIÃO PESSOAL. Não gostou? Sem problemas, basta deixar de me seguir. Se eu quisesse ouvir críticas sem fundamento, adotaria um gato gago.

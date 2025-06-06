@@ -11,6 +11,7 @@ tags:
   - quarentena
   - coronavírus
 draft: false
+toc: false
 ---
 
 Em postagens anteriores, escrevi sobre a adaptação ao uso de ferramentas online para aprender e ensinar, bem como controlar o estresse em torno da deplorável situação no mundo. A postagem de hoje será um pouco mais pessoal. Estarei compilando algumas anedotas e histórias pessoais que reuni de amigos sobre como eles estão aproveitando ao máximo o tempo em casa.

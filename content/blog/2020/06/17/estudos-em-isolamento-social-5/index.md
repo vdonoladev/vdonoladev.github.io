@@ -15,6 +15,7 @@ tags:
   - rotina
   - aprendizado
 draft: false
+toc: false
 ---
 
 O mundo está totalmente diferente de quando escrevi para esta série pela última vez, com os protestos anti-racismo continuando a canalizar descontentamento e indignação com a justiça racial em todo o mundo, e com novas informações surgindo sobre reabertura da economia e programas de ajuda em meio a pandemia.

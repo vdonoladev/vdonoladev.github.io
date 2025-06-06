@@ -8,6 +8,7 @@ tags:
   - isolamento social
   - coronavírus
 draft: false
+toc: false
 ---
 
 Nos próximos dias e semanas, estarei publicando aqui como uma forma de compartilhar a perspectiva dos alunos sobre os impactos da pandemia COVID-19.

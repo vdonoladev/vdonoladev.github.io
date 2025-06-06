@@ -10,6 +10,7 @@ tags:
   - Saúde
   - Tratamento
 draft: false
+toc: false
 ---
 
 Para exemplificar esse tema, vamos utilizar uma história que se passou durante a Segunda Guerra Mundial. Um médico não tinha mais estoques de morfina para aliviar a dor dos solados e não sabia o que fazer. Até que teve a ideia de colocar água com sal em ampolas e as injetar nas vítimas, simulando que estava aplicando morfina. E, pasmem, os soldados começaram a relatar que os incômodos estavam diminuindo! Afinal, o que é o efeito placebo? E o que está por trás dele?

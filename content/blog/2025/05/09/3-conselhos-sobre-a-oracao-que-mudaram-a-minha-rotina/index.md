@@ -2,10 +2,11 @@
 title: 3 conselhos sobre a oração que mudaram a minha rotina
 date: 2025-05-09
 slug: 3-conselhos-sobre-a-oracao-que-mudaram-a-minha-rotina
-description: "A oração é uma prática poderosa que pode transformar a nossa vida. Aqui estão três conselhos que me ajudaram a integrar a oração na minha rotina diária."
+description: A oração é uma prática poderosa que pode transformar a nossa vida. Aqui estão três conselhos que me ajudaram a integrar a oração na minha rotina diária.
 tags: 
 - espiritualidade
 draft: false
+toc: false
 ---
 
 Se tem uma coisa que a vida me ensinou — seja nos corredores silenciosos do seminário, nos bastidores de um supermercado em plena segunda-feira, ou agora, preparando meu casamento e sonhando alto com uma carreira em TI — é que rezar é mais do que falar com Deus: é viver com Ele.

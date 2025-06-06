@@ -11,6 +11,7 @@ tags:
   - crítica
   - pensamento crítico
 draft: false
+toc: false
 ---
 
 Para conversarmos um pouco melhor sobre o assunto, precisamos entender, em suma, o que é ciência.
