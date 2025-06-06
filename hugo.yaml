@@ -28,6 +28,9 @@ menu:
     - name: Contato
       url: "mailto:contato.victordonolaferreira@outlook.com"
       weight: 3
+    - name: Link's
+      url: "/links"
+      weight: 4
     - name: Search
       weight: 4
       params:
