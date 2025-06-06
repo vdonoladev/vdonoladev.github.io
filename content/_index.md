@@ -1,3 +1,7 @@
+---
+toc: false
+---
+
 # 👋 Olá, eu sou o Víctor!
 
 🎯 **Auxiliar Administrativo | Estudante de Administração | Entusiasta de Tecnologia**
