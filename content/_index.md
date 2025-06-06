@@ -10,6 +10,7 @@ This is the landing page.
 {{< cards >}}
   {{< card link="blog" title="Blog" icon="book-open" >}}
   {{< card link="about" title="Sobre" icon="user" >}}
+  {{< card link="links" title="Link's" icon="user" >}}
 {{< /cards >}}
 
 ## Documentation
