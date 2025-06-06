@@ -35,8 +35,6 @@ menu:
       weight: 5
       params:
         type: search
-        search:
-          index: content
     - name: LinkedIn
       weight: 6
       url: "https://www.linkedin.com/in/vdonoladev/"
@@ -49,6 +47,13 @@ menu:
         icon: github
 
 params:
+  search:
+    enable: true
+    type: flexsearch
+
+    flexsearch:
+      index: content
+      
   navbar:
     displayTitle: true
     displayLogo: false
