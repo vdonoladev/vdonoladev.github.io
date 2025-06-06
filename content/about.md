@@ -4,7 +4,8 @@ toc: false
 
 # 👨‍💼 Sobre Mim
 
-Olá! Eu sou o **Víctor Donola Ferreira**, tenho **27 anos** e sou natural de **Carangola – MG, Brasil**.  
+Olá! Eu sou o **Víctor**, tenho **27 anos** e sou natural de **Carangola – MG, Brasil**.
+
 Atuo como **Auxiliar Administrativo** e sou um apaixonado por tecnologia, aprendizado contínuo e desenvolvimento pessoal.  
 ⠀  
 Acredito que o verdadeiro crescimento acontece quando unimos **conhecimento, fé e ação prática**.
@@ -76,4 +77,5 @@ Sou um **católico apostólico romano**, movido por valores como ética, humilda
 
 Sou uma pessoa curiosa, autodidata, e acredito que a tecnologia deve estar a serviço do bem, da organização e do crescimento pessoal e coletivo.
 
-> _"Muitas das coisas que sei, aprendi por conta própria, botando a mão na massa e buscando sempre melhorar."_ — Víctor Donola Ferreira
+> _"Muitas das coisas que sei, aprendi por conta própria, botando a mão na massa e buscando sempre melhorar."_ 
+> — Víctor Donola Ferreira
