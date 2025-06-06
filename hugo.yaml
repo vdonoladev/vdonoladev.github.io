@@ -1,5 +1,6 @@
 # Hugo configuration file
 title: Víctor Donola Ferreira - Portfolio
+languageCode: "pt-BR"
 
 # import hextra as module
 module:
@@ -57,3 +58,9 @@ params:
 
   theme:
     default: dark
+
+  author:
+    name: Víctor Donola Ferreira
+    email: contato.victordonolaferreira@outlook.com
+
+  description: "Este site nasce como um espaço para unir tecnologia, gestão e fé."
