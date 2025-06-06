@@ -9,7 +9,7 @@ Atuo como **Auxiliar Administrativo** e sou um apaixonado por tecnologia, aprend
 ⠀  
 Acredito que o verdadeiro crescimento acontece quando unimos **conhecimento, fé e ação prática**.
 
-## 💼 Perfil Profissional
+### 💼 Perfil Profissional
 
 Com mais de **5 anos de experiência** nas áreas **administrativa, financeira e operacional**, desenvolvi um perfil altamente **organizado, proativo e resolutivo**, com foco em **otimização de processos e suporte técnico de qualidade**.
 
@@ -23,9 +23,9 @@ Destaco minha atuação em:
 
 Sou comprometido com a **melhoria contínua**, sempre buscando entregar resultados eficientes e contribuir com o crescimento das empresas em que atuo.
 
-## 🧩 Experiência Profissional
+### 🧩 Experiência Profissional
 
-### 🏢 **Cereais Bramil LTDA**  
+#### 🏢 **Cereais Bramil LTDA**  
 📅 *Agosto de 2024 – Março de 2025*  
 **Cargo**: Auxiliar Administrativo  
 - Gestão do almoxarifado com foco em segurança e precisão nos registros.
@@ -33,14 +33,14 @@ Sou comprometido com a **melhoria contínua**, sempre buscando entregar resultad
 - Treinamento e supervisão de Jovens Aprendizes.
 - Implantação de regras e procedimentos internos.
 
-### 🖥️ **Autônomo**  
+#### 🖥️ **Autônomo**  
 📅 *Junho de 2022 – Agosto de 2024*  
 **Cargo**: Técnico de Informática
 - Manutenção e formatação de computadores.
 - Diagnóstico de redes e sistemas.
 - Atendimento técnico personalizado.
 
-### 🛒 **ABC da Construção**  
+#### 🛒 **ABC da Construção**  
 📅 *Dezembro de 2019 – Maio de 2022*  
 **Cargo**: Assistente Comercial  
 - Organização de campanhas promocionais.
@@ -48,7 +48,7 @@ Sou comprometido com a **melhoria contínua**, sempre buscando entregar resultad
 - Controle de planilhas financeiras e de vendas.
 - Suporte técnico em ambientes Windows e Linux.
 
-## 🎓 Formação Acadêmica & Certificações
+### 🎓 Formação Acadêmica & Certificações
 
 🎓 **Bacharelado em Administração**  
 📍 Universidade Estácio de Sá  
@@ -63,7 +63,7 @@ Sou comprometido com a **melhoria contínua**, sempre buscando entregar resultad
 
 [📂 Acesse todos os meus certificados aqui](https://drive.google.com/drive/folders/1XJA9nqTC68tBnpVQ-fGhQ7g8_SUsmFzm?usp=sharing)
 
-## 🧠 Perfil Pessoal
+### 🧠 Perfil Pessoal
 
 Sou um **católico apostólico romano**, movido por valores como ética, humildade e serviço. Fora do trabalho, você provavelmente vai me encontrar:
 

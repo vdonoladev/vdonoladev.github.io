@@ -16,7 +16,7 @@ Aqui, você vai encontrar conteúdos sobre:
 
 > _“A vida inteira é um aprendizado. E o que eu aprendo, eu compartilho.”_
 
-## 🌱 Quem sou eu?
+### 🌱 Quem sou eu?
 
 Sou **Víctor**, um jovem de 27 anos apaixonado por conhecimento, estrutura, ordem e beleza – seja no código, na gestão de um processo ou na fé que me move.
 
@@ -28,7 +28,7 @@ Sou **Víctor**, um jovem de 27 anos apaixonado por conhecimento, estrutura, ord
 - 📖 Leitor ávido de livros
 - ✝️ Católico praticante, buscando sempre aprofundar minha fé
 
-## 🔗 Explore
+### 🔗 Explore
 
 {{< cards >}}
   {{< card link="blog" title="Blog" icon="newspaper" >}}
