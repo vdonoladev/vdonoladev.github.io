@@ -1,8 +1,3 @@
----
-title: Início
-toc: false
----
-
 # 👋 Olá, eu sou o Víctor!
 
 🎯 **Auxiliar Administrativo | Estudante de Administração | Apaixonado por Tecnologia**
@@ -28,7 +23,7 @@ Estou sempre estudando algo novo e compartilhando o que aprendo nas minhas redes
 
 ## 🔗 Vamos nos conectar?
 
-[📄 Acesse meus links](./links.md) para ver meus perfis, projetos e formas de contato.
+[📄 Acesse meus links](./links) para ver meus perfis, projetos e formas de contato.
 
 > _“Produtividade é fazer melhor, não apenas fazer mais.”_ — Desconhecido
 
