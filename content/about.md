@@ -1,8 +1,3 @@
----
-title: Sobre
-type: about
----
-
 # 👨‍💼 Sobre Mim
 
 Olá! Eu sou o **Víctor Donola Ferreira**, tenho **27 anos** e sou natural de **Carangola – MG, Brasil**.  
@@ -77,8 +72,3 @@ Sou um **católico apostólico romano**, movido por valores como ética, humilda
 Sou uma pessoa curiosa, autodidata, e acredito que a tecnologia deve estar a serviço do bem, da organização e do crescimento pessoal e coletivo.
 
 > _"Muitas das coisas que sei, aprendi por conta própria, botando a mão na massa e buscando sempre melhorar."_ — Víctor Donola Ferreira
-
----
-
-📎 [Voltar para a página inicial](./index)
-

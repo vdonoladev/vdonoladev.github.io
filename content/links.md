@@ -1,7 +1,3 @@
----
-title: Link's
----
-
 # 🌐 Meus Links e Contatos
 
 Olá! Seja bem-vindo à minha página de links. Aqui você encontra todas as formas de me contatar e acompanhar meu trabalho, projetos e conteúdos. 😊
