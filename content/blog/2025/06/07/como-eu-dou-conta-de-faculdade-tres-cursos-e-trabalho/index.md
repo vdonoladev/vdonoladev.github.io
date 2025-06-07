@@ -1,7 +1,7 @@
 ---
 title: Como eu dou conta de faculdade, três cursos e trabalho
 description: "Como eu dou conta de faculdade, três cursos e trabalho? A resposta é simples: organização e disciplina. Neste post, compartilho como gerencio meu tempo e mantenho o foco."
-date: 2025-06-08
+date: 2025-06-07
 tags:
   - produtividade
   - organização
