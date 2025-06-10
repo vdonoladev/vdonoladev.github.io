@@ -16,7 +16,7 @@ Dessa vez, pra compartilhar um pouco das ferramentas e extensões que fazem part
 Pra quem me conhece, sabe que eu sou viciado em organização e produtividade — mas do meu jeito.
 Nada de firula, nada de moda. Só o que realmente funciona e se encaixa na correria da minha rotina (trabalho, estudo, casa, etc).
 
-Pra começar com uma informação importante: **não uso Windows e nem MacOS**. Meu sistema principal é o **Pop!\_OS**, uma distro baseada no Ubuntu, super fluida, limpa e confiável. Desde novo sou apaixonado por Linux.
+Pra começar com uma informação importante: **não uso Windows e nem MacOS**. Meu sistema principal é o **PopOS**, uma distro baseada no Ubuntu, super fluida, limpa e confiável. Desde novo sou apaixonado por Linux.
 
 O uso constante do terminal me traz uma nostalgia bizarra daqueles filmes antigos de “hackers”, sabe? hahahah
 
