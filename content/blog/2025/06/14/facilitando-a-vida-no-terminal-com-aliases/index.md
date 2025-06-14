@@ -20,7 +20,7 @@ Eles ajudam demais a **automatizar e acelerar o fluxo de trabalho**. Imagina ter
 
 ### Como criar um alias
 
-É bem simples configurar. Vou mostrar passo a passo como fazer funcionar no seu terminal:
+É bem simples de configurar. Vou mostrar passo a passo como fazer funcionar no seu terminal:
 
 1. Primeiramente, no seu terminal, vá até sua **home** e crie o arquivo `.bash_aliases` (se ele já não existir):
 
