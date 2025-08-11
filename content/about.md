@@ -26,6 +26,28 @@ Sou comprometido com a **melhoria contínua**, sempre buscando entregar resultad
 
 ### 🧩 Experiência Profissional
 
+#### 🏢 **Pousada Bomtempo LTDA**  
+📅 *Junho de 2025 – Junho de 2025*  
+**Cargo**: Recepcionista 
+- Atendimento aos hóspedes do check-in ao check-out, garantindo excelência e cordialidade.
+- Comunicação via telefone, e-mail e WhatsApp para reservas e suporte.
+- Organização e atualização de cadastros de hóspedes no sistema.
+- Apoio às equipes de limpeza e manutenção com informações operacionais.
+- Controle de entrada e saída de materiais e equipamentos de uso comum.
+- Implementação de práticas para agilizar e humanizar o atendimento.
+
+#### 🏢 **De Paulo Pães Indústria de Alimentos LTDA**  
+📅 *Junho de 2025 – Junho de 2025*  
+**Cargo**: Auxiliar Administrativo  
+- Gerenciamento de comodatos, controlando retiradas em clientes e saídas internas com rastreabilidade de equipamentos.
+- Cadastro e atualização de clientes no sistema, garantindo padronização e eficiência nos processos.
+- Lançamento e liberação de pedidos de compras.
+- Atendimento via WhatsApp e e-mail para clientes e equipes de vendas.
+- Uso do ERP SIG2000 para registro e acompanhamento de movimentações.
+- Suporte às equipes financeira e logística, integrando processos internos.
+- Controle e verificação de equipamentos em comodato.
+- Apoio administrativo aos vendedores e comunicação com clientes.
+
 #### 🏢 **Cereais Bramil LTDA**  
 📅 *Agosto de 2024 – Março de 2025*  
 **Cargo**: Auxiliar Administrativo  
