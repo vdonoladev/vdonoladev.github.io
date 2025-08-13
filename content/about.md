@@ -27,7 +27,7 @@ Sou comprometido com a **melhoria contínua**, sempre buscando entregar resultad
 ### 🧩 Experiência Profissional
 
 #### 🏢 **Pousada Bomtempo LTDA**  
-📅 *Junho de 2025 – Junho de 2025*  
+📅 *Julho de 2025 – Julho de 2025*  
 **Cargo**: Recepcionista 
 - Atendimento aos hóspedes do check-in ao check-out, garantindo excelência e cordialidade.
 - Comunicação via telefone, e-mail e WhatsApp para reservas e suporte.
