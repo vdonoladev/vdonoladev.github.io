@@ -17,17 +17,16 @@ draft: false
 toc: false
 ---
 
-Lidar com a incerteza contínua durante a pandemia está se tornando cada vez mais difícil, já que a cada dia uma nova onda de notícias e informações, e as atualizações do coronavírus dominam os ciclos de notícias nos veículos mais populares. É importante reconhecer que a cada dia precisaremos alterar nossos comportamentos, à medida que novas informações surgem e absorvemos novos conhecimentos (como higienizar sua casa, por exemplo).
+Conviver com essa incerteza sem fim da pandemia está cada vez mais cansativo. Todo dia tem uma enxurrada nova de notícias, atualizações e opiniões sobre o coronavírus — e isso domina tudo. É como se não tivesse mais outro assunto no planeta. E a gente tem que se adaptar: muda comportamento, ajusta rotina, aprende uns truqes novos e segue o baile.
 
-Quanto a lidar com a preocupante enxurrada de notícias e atualizações, a psicóloga comportamental Jo Hemmings sugere a criação de uma **janela de preocupação** para você – por exemplo, você pode se permitir uma hora por dia obter as informações, que podem ser divididas em períodos de meia hora pela manhã e à noite. O problema, como tenho certeza que você já reconheceu, é a evolução sem fim da pandemia e seu agravamento em todo o mundo. Reconheça que não há problema em dar uma pausa nas notícias e dar um tempo para tirar sua mente de toda a negatividade. Traga o foco de volta para você e sua família e o que você pode fazer por eles para aliviar o estresse e mantê-los seguros. Se você é alguém que se sente mais à vontade por saber de todas as notícias de última hora, vá em frente, mas também sinta que às vezes pode se distanciar se precisar.
+Pra não pirar, a psicóloga comportamental _Jo Hemmings_ sugere criar uma "janela de preocupação" — basicamente, limitar o tempo que você passa consumindo notícias. Tipo: uma hora por dia, dividida entre manhã e noite. O problema é que, com a pandemia evoluindo sem parar, é difícil desligar. Mas vale lembrar: não tem nada de errado em dar uma pausa. Às vezes, o melhor é focar em você, na sua família e no que realmente dá pra fazer pra aliviar o estresse e manter todo mundo seguro.
 
-As distrações são necessárias e eu, por exemplo, me convenci a não me sentir culpado por assistir um programa de TV favorito ou passar o dia no quinta, lendo em vez de acompanhar as notícias.
+E, sim, distrações são necessárias. Eu, por exemplo, já parei de me culpar por maratonar uma série ou passar a tarde jogando, em vez de ficar grudado nas notícias.
 
-Também descobri que **focar na rotina** ajuda a manter a sanidade e a regularidade que me resta. Ir para a cama em um horário mais ou menos regular é algo que digo a mim mesmo que vou começar a fazer um dia, mas infelizmente, ainda não aconteceu. Algo que me ajudou a manter a rotina e a normalidade em minha vida é resistir a vontade de andar desarrumado pela casa – usar roupas mais normais, me ajudou a permanecer produtivo e a não tirar cochilos em vez de aproveitar um período de trabalho.
+Outra coisa que ajuda é manter uma rotina — ou pelo menos tentar. Ir dormir no mesmo horário? Ainda não consegui. Mas resistir a ficar de "pijama" já faz diferença. Vestir uma roupa "normal" me deixa mais produtivo e evita aqueles cochilos que roubam metade da tarde.
 
-Produtividade em um momento como este é um questão difícil, e eu acho que sou incomumente duro comigo mesmo quando não prossigo com qualquer projeto que decidi iniciar, como escrever ou programar. Parece, pelo menos para mim, que todo esse tempo extra deve ser um grande motivo para começar algo novo, e é fácil voltar para a conversa interna negativa e a sensação de culpa porque você não acabou realizando algo que pensava que poderia. Isso me ajudou a levar a vida dia após dia e a não me pressionar a seguir em qualquer coisa que não seja o trabalho escolar, se eu não conseguir encontrar a motivação.
+Sobre produtividade... essa é complicada. Eu costumo ser bem crítico comigo quando não sigo com algum projeto que inventei, como escrever ou programar. Parecer que ter "tempo sobrando" deveria ser sinônimo de "fazer algo incrível". E quando não rola, bate aquela culpa. O que tem funcionado pra mim é focar no básico: cumprir o que preciso e, se sobrar energia, aí sim pensar no resto. Sem pressão.
 
-Isso encerra o terceiro post da minha série. Espero que você esteja acompanhando e estou ansioso para compartilhar mais da minha perspectiva com você no próximo post!
+Esse foi o terceiro post da série. Se você está acompanhando até aqui, valeu pela companhia.
 
-Até a próxima.
-
+Até mais.

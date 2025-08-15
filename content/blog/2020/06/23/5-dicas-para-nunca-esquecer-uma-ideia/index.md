@@ -12,12 +12,30 @@ draft: false
 toc: false
 ---
 
-Então, como não perder suas ideias?
+Sabe aquela ideia que surge do nada e, quando você vai ver... puff, sumiu? Pois é. Vamos evitar isso. Aqui vão cinco jeitos práticos de garantir que elas fiquem guardadas pra você usar na hora certa.
 
-**1. Moleskine:** A primeira alternativa é a ideal para os tradicionais ou desplugados. Nada mais é que um caderninho de bolso que você leva para onde for, e a qualquer momento anota suas ideias e pensamentos. Quem não se lembra do Indiana Jones e seu moleskine? Além de ser uma “ferramenta” muito útil, é um acessório para quem tem estilo!
-**2. Gravador de Voz ou Celular:** Se você é daqueles que tem ideias andando, uma boa saída é utilizar um gravador de voz ou até mesmo o celular para anotar suas preciosidades. O ideial é depois mover os arquivos de áudio ou anotações para um local seguro, o seu repositório de ideias.
-**3. Favoritos:** Navegando na internet sempre temos boas ideias, vemos uma coisa aqui, um site ali, um comentário aculá… os favoritos então se tornam úteis para linkar tudo o que for interessante. Se você quiser pode até compartilhar seus favoritos utilizando o Pocket.
-**4. Pasta de Ideias e Recortes:** Vendo jornais, lendo revistas ou participando de feiras também podem surgir várias ideias. As vezes a partir de uma ideia já existente você percebe uma nova necessidade ou como fazer melhor. Tenha uma pasta com todas as ideias que juntou, basta arrancar a página (ou recortar o que interessa) e juntar com seus rabiscos e pronto. Não precisa ser bonita nem organizada.
-**5. Mapas Mentais:** Se você tem tantas ideias que precisa de uma ferramenta para organizar todas elas e facilitar seu acesso as informações quando necessário, recomendo utilizar Mapas Mentais. Através de diagramas é possível armazenar todo tipo de informação ou conteúdo, de forma estrutural e que reflete sua maneira de pensar. Se o que for armazenado for muito complexo a ferramenta a ser utilizada é o Mapa Conceitual.Para mapas mentais uma boa solução gratuita é o XMind, a melhor paga é o MindManager. Para mapas conceituais o CmapTools.
+**1. Moleskine**
 
-**Registre suas ideias!** Como o povo diz “uma boa ideia vale ouro” então trate de registrar suas ideias! Mas lembre-se que uma boa ideia precisa tomar vida no momento certo, não basta tê-las e guardá-las na gaveta, mas isso é assunto para um outro post.
+Pra quem é mais tradicional (ou gosta de fazer um estilo retrô), um caderninho de bolso resolve. É só carregar com você e anotar na hora. Lembra do Indiana Jones? Ele tinha o dele. Além de útil, ainda passa um ar de intelectual aventureiro.
+
+**2. Gravador de voz ou Celular**
+
+Se as ideias aparecem quando você está andando, no trânsito ou cozinhando, grave! Pode ser no gravador de voz ou no próprio celular. Depois, transfira os áudios ou notas pro seu "cofre de ideias" pra não se perder.
+
+**3. Favoritos do navegador**
+
+Navegando na internet, sempre pinta um insight: um site, um artigo, um comentário. Use os favoritos pra guardar tudo que achar interessante. Se quiser ir além, ferramentas como o Pocket organizam e até permitem compartilhar.
+
+**4. Paste de ideias e recortes**
+
+Lendo revista, jornal ou visitando eventos, dá pra encontrar boas sacadas. Corte, arranque a página, anote algo e guarde numa pasta. Não precisa ser bonita nem organizada — o importante é juntar tudo num lugar só.
+
+**5. Mapas mentais**
+
+Se você tem tantas ideias que já está se perdendo nelas, organize com mapas mentais. Eles ajudam a visualizar e conectar tudo de um jeito que faz sentido pra você. Ferramentas como **XMind** (grátis) ou **MindManager** (paga) funcionam bem. Se a coisa for mais complexa, mapas conceituais no **CmapTools** podem ser o ideal.
+
+💡 **Registre suas ideias!**
+
+Como dizem por aí: "uma boa ideia vale ouro". Só não adianta deixar trancada na gaveta — na hora certa, ela precisa ganhar vida. Mas isso já é assunto pra outro post.
+
+Até mais.

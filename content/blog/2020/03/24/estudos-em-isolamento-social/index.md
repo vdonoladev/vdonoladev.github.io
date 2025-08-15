@@ -11,16 +11,14 @@ draft: false
 toc: false
 ---
 
-Nos próximos dias e semanas, estarei publicando aqui como uma forma de compartilhar a perspectiva dos alunos sobre os impactos da pandemia COVID-19.
+Nos próximos dias, vou compartilhar por aqui os impactos da pandemia da COVID-19 do lado de dentro — no caso, como estudante.
 
-Para iniciar meu post inaugural, vou me apresentar brevemente.
+Antes de mais nada, deixa eu me apresentar rapidinho: gosto de escrever atigos (a maioria fica na gaveta mesmo), ler bastante (no momento estou com _Despejado: Pobreza e Lucro na Cidade Americana_, do Matthew Desmond) e tenho planos de seguir na área de Ciência da Computação.
 
-**Um pouco sobre mim:** Gosto de escrever artigos (a maioria não é publicado), lendo (no momento, Despejado: Pobreza e Lucro na Cidade Americana de Matthew Desmond). Espero fazer Ciência da Computação.
+Essa série é um jeito de juntar o útil ao agradável: escrever, refletir e, quem sabe, ajudar outros estudante a verem que não estão sozinhos nessa bagunça toda.
 
-Essa série de publicações será uma forma de canalizar meus interesses de uma forma que possa vir a ser do interesse de outros alunos.
+Ao longo das próximas semanas, vou contar um pouco das minhas experiências nesse "modo de vida improvisado" e também dividir reflexões sobre o dia a dia em casa — o bom, o ruim e o "mais ou menos".
 
-Nos próximos dias e semanas, estarei narrando minhas experiências neste modo de vida alterado e reflexões gerais sobre a vida cotidiana em casa.
+No mais, siga com cautela, mantenha-se saudável e otimista (sem exageros, que ninguém é de ferro) e fique ligado para as próximas publicações.
 
-Mantenha-se cauteloso, saudável e otimista (com moderação, é claro) e fique atento para mais conteúdos em breve!
-
-Até a próxima.
+Até mais.

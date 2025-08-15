@@ -16,12 +16,12 @@ draft: false
 toc: false
 ---
 
-Apenas uma semana se passou, mas para mim, estranhamente parece que estamos usando esse método de aprendizagem há muito mais tempo. Já aprendi a apreciar o fato de que agora posso acordar uma hora mais tarde do que o normal, bem como minha nova oportunidade de saborear um café recém-feito enquanto assisto a uma apresentação pré-gravada.
+Passou só uma semana, mas juro que parece que esse esquema de estudo remoto já faz parte da minha vida há meses. Já me acostumei a acordar uma hora mais tarde (baita vantagem) e a tomar um café fresquinho enquanto assisto uma aula gravada — confesso que isso eu não reclamo.
 
-O ensino remoto também relaxou meu dia imensamente, dando-me mais flexibilidade no que faço entre as aulas e as tarefas do Google Meet. Eu vi isso acontecer de duas maneiras: ou aproveito o tempo livre para me concentrar em atividades não relacionadas à escola (vou escrever um post), ou uso o tempo para terminar as tarefas escolares mais lenta e deliberadamente, sentado em frente ao computador até minhas mãos, cabeça e costas doerem. A última opção acontece sem que eu perceba. É tão fácil olhar para aquela redação que você está escrevendo por duas horas em vez de 45 minutos, como planejou, porque você simplesmente tem tempo.
+O ensino remoto deixou meus dias bem mais flexíveis. Entre uma aula e outra no Google Meet, ou eu aproveito pra fazer algo que não tem nada a ver com a escola (assunto pra outro post) ou acabo esticando demais o tempo nas tarefas. A segunda opção acontece sem nem perceber: você planeja gastar 45 minutos numa redação e, quando vê, já se passaram duas horas. É o perigo de "ter tempo de sobra".
 
-Até agora, senti que meus professores se adaptaram bem ao ensino online, seja por meio de discussões do Google Meet, leituras programadas ou video-aulas. Algumas aulas são, previsivelmente, mais difíceis de continuar como de costume sem o aprendizado presencial, como Química e Artes Visuais, que muitas vezes exigem materiais em sala de aula para projetos.
+Até agora, acho que meus professores estão se virando bem com o online — seja nas discussões pelo Meet, nas leituras programadas ou nas videoaulas. Mas é claro que algumas matérias ficam mais complicadas sem o presencial.
 
-Desejo a todos vocês perseverança contínua, boa saúde e conforto nestes tempos difíceis e bizarros.
+Enfim, seguimos. Que não falte perseverança, saúde e um pouco de conforto pra todo mundo nesses tempos tão estranhos.
 
-Até a próxima.
+Até mais.

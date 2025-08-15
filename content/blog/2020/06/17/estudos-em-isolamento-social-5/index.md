@@ -18,10 +18,12 @@ draft: false
 toc: false
 ---
 
-O mundo está totalmente diferente de quando escrevi para esta série pela última vez, com os protestos anti-racismo continuando a canalizar descontentamento e indignação com a justiça racial em todo o mundo, e com novas informações surgindo sobre reabertura da economia e programas de ajuda em meio a pandemia.
+O mundo mudou muito desde a última vez que escrevi pra essa série. Os protestos antirracismo continuam fortes, canalizando indignação contra as insjustiças raciais pelo mundo todo, enquanto surgem novas notícias sobre reabertura da economia e programas de ajuda em meio à pandemia.
 
-Acho que falo por todos quando digo que as últimas semanas pareciam quase incompreensíveis – costuma-se dizer que estamos “vivendo tempos históricos”, mas a magnitude dessa percepção recentemente me ocorreu quando considerei como nosso a realidade cotidiana será vista pelas gerações futuras, da mesma forma que vemos eventos monumentais na história, como os protestos de Stonewall e o movimento pelos direitos civis no final dos anos 1960. Acredita-se que Mark Twain tenha dito: “A história não se repete, mas muitas vezes rima”, e acho que isso se aplica a traçar paralelos entre o estado atual das coisas e os levantes de desobediência civil no passado, quando os cidadãos expressaram sua descontentamento com um sistema injustamente enviesado para prejudicar e oprimir certos grupos em movimentos assustadoramente semelhantes aos de hoje.
+Acho que não falo só por mim quando digo que as últimas semanas pareceram quase surreais. Sempre ouvimos que estamos "vivendo tempos históricos", mas a ficha só caiu pra mim quando percebi que o que a gente está vivendo agora vai ser estudado pelas próximas gerações — do mesmo jeito que a gente olha pra protetos como o de Stonewall ou o movimento pelos direitos civis no fim dos anos 1960.
 
-Algo pelo qual sou muito grato é o esforço que os professores colocaram em usar as aulas ao longo da última semana para iniciar e encorajar discussões difíceis, mas críticas sobre tudo o que está acontecendo no mundo, bem como dedicar um tempo para nos educar sobre a história da injustiça racial.
+Tem uma frase atribuída ao _Mark Twain_ que diz: "A história não se repete, mas muitas vezes rima". E dá pra sentir isso hoje. As lutas de agora lembram muito outros momentoss da história em que as pessoas foram às ruas contra sistemas injustos, que oprimem e prejudicam certos grupos — e as semelhanças são assustadoras.
 
-Fiquem bem!
+Uma coisa pela qual sou realmente grato é o empenho dos meus professores nas últimas semanas. Eles abriram espaço nas aulas pra conversas difíceis, mas necessárias, sobre o que está acontecendo, e também nos ajudaram a entender a história por trás da injustiça racial. Isso faz toda a diferença.
+
+Até mais.

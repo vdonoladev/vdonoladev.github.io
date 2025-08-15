@@ -14,14 +14,16 @@ draft: false
 toc: false
 ---
 
-Em postagens anteriores, escrevi sobre a adaptação ao uso de ferramentas online para aprender e ensinar, bem como controlar o estresse em torno da deplorável situação no mundo. A postagem de hoje será um pouco mais pessoal. Estarei compilando algumas anedotas e histórias pessoais que reuni de amigos sobre como eles estão aproveitando ao máximo o tempo em casa.
+Nos posts anteriores, falei sobre como foi me adaptar às ferramentas online pra estudar e dar conta das aulas, e também sobre como lidar com o estresse dessa situação mundial nada animadora. Hoje o papo vai ser mais pessoal: resolvi juntar umas histórias minhas e de amigos sobre como a gente tem tentado tirar o melhor proveito do tempo em casa.
 
-O impulso para a motivação e produtividade enquanto estamos todos presos em casa, como mencionei brevemente em um post anterior, pode ser preocupante e pode facilmente levar a uma conversa interna negativa e remorso por não ter realizado o que você pensava que deveria fazer. No entanto, existe uma lista interminável de atividades e hobbies que podem ser escolhidos e trabalhados com todo esse tempo extra, desde que você tenha a certeza de que não estará se sentindo obrigado ou amarrado a eles assim que começar.
+Aquela pressão de "ser produtivo" enquanto estamos trancados, que já comentei antes, pode ser um peso. Rapidinho vira conversa interna negativa e culpa por não fazer tudo que a gente achou que faria. Mas também é verdade que existe um monte de atividades e hobbies que dá pra explorar nesse tempo extra — desde que você não se sinta preso ou obrigado a continuar se aquilo deixar de fazer sentido.
 
-Acho que os professores estão atribuindo tarefas que podem ser feitas, na maior parte, durante o horário de aula, então às vezes me encontro com tempo extra para preencher. O tempo excessivo de tela me desencorajou de assistir a quantidade de Netflix que eu normalmente assistiria no meu tempo de inatividade.
+Meus professores têm passado tarefas que, na maioria das vezes, dá pra resolver durante o horário de aula. Então, sobra tempo. Curiosamente, até a Netflix perdeu a graça um pouco depois de tantas horas na frente da tela.
 
-Falei com alguns amigos, pedindo que compartilhassem suas experiências ao tentar algo novo ou algo para o qual não tiveram tempo. Atividades que vão desde tocar flauta até assar, desde o aprendizado de línguas até o registro no diário e resolução de quebra-cabeças estavam entre as respostas. Todas as pessoas de quem recebi comentários mencionaram que se sentiam liberados, ironicamente, embora tivessem que ficar em casa, e como se estivessem finalmente sentindo criatividade e inspiração para fazer coisas que nunca pensaram em fazer. Ouvir essas histórias de pessoas próximas a mim sobre como elas estão encontrando um novo senso de curiosidade e desejo de experimentar me deu o incentivo de que eu precisava para continuar a desenvolver novas habilidades e hobbies nestes tempos difíceis (e espero que tenha o mesmo efeito em você!).
+Conversei com alguns amigos e pedi que me contassem o que eles começaram a fazer agora que têm mais tempo. As respostas foram bem variadas: tocar violão, aprender idiomas, montar quebra-cabeça... Teve de tudo. E o mais engraçado é que todos disseram sentir uma certa liberdade mesmo presos em casa — como se finalmente tivessem espaço mental pra explorar coisas novas.
 
-Isso é tudo para a postagem do blog desta semana! Sinceramente espero que você esteja gostando de minhas pequenas publicações aqui.
+Ouvir isso me deu um gás a mais pra também experimentar e desenvolver novas habilidades, sem aquela obrigação sufocante. E espero que, lendo isso aqui, você também se anime a tentar algo diferente, mesmo que seja só por diversão.
 
-Até a próxima.
+Por hoje é isso. Obrigado por acompanhar minhas reflexões e histórias — e semana que vem tem mais.
+
+Até mais.
