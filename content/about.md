@@ -3,8 +3,6 @@ toc: false
 title: Sobre
 ---
 
-# 👨‍💼 Sobre Mim
-
 Olá! Eu sou o **Víctor**, tenho **27 anos** e sou natural de **Carangola – MG, Brasil**.
 
 Atuo como **Auxiliar Administrativo** e sou um apaixonado por tecnologia, aprendizado contínuo e desenvolvimento pessoal.  
