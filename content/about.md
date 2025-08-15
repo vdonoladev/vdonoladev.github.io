@@ -1,5 +1,6 @@
 ---
 toc: false
+title: Sobre
 ---
 
 # 👨‍💼 Sobre Mim
