@@ -12,6 +12,7 @@ Olá! Seja bem-vindo à minha página de links. Aqui você encontra todas as for
 
 ### 🌟 Redes e Perfis Profissionais
 
+- 💻 [**Portfolio**](https://vdonoladev.vercel.app/) — Sites modernos, personalizados e otimizados
 - 💼 [**LinkedIn**](https://www.linkedin.com/in/vdonoladev/) — Profissional e networking  
 - 💻 [**GitHub**](https://github.com/vdonoladev) — Repositórios e projetos  
 - ✒️ [**Medium**](https://medium.com/@vdonoladev) — Artigos e publicações técnicas  
