@@ -75,7 +75,7 @@ params:
     base: "https://github.com/imfing/hextra-starter-template/edit/main/content"
 
   theme:
-    default: system
+    default: light
 
   author:
     name: Víctor Donola Ferreira
