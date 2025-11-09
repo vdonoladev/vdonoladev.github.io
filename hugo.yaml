@@ -1,6 +1,10 @@
 # Hugo configuration file
 title: vdonoladev
 languageCode: "pt-BR"
+baseURL: "https://vdonoladev.github.io"
+
+outputs:
+  home: [HTML, RSS]
 
 # import hextra as module
 module:
@@ -19,22 +23,21 @@ markup:
 
 menu:
   main:
-    # - name: Blog
-    #   pageRef: /blog
-    #   weight: 1
     - name: Sobre
       pageRef: /about
       weight: 1
-    # - name: Link's
-    #   url: "/links"
-    #   weight: 2
     - name: Contato
       url: "mailto:contato.victordonolaferreira@outlook.com"
-      weight: 3
+      weight: 2
     - name: Search
-      weight: 4
+      weight: 3
       params:
         type: search
+    - name: Instagram
+      weight: 4
+      url: "https://instagram.com/vdonoladev/"
+      params:
+        icon: instagram
     - name: LinkedIn
       weight: 5
       url: "https://www.linkedin.com/in/vdonoladev/"
@@ -45,6 +48,32 @@ menu:
       url: "https://github.com/vdonoladev/"
       params:
         icon: github
+    - name: Portfolio
+      weight: 7
+      url: "https://vdonoladev.vercel.app/"
+      params:
+        icon: link
+  sidebar:
+    - name: Instagram
+      weight: 1
+      url: "https://instagram.com/vdonoladev/"
+      params:
+        icon: instagram
+    - name: LinkedIn
+      weight: 2
+      url: "https://www.linkedin.com/in/vdonoladev/"
+      params:
+        icon: linkedin
+    - name: GitHub
+      weight: 3
+      url: "https://github.com/vdonoladev/"
+      params:
+        icon: github
+    - name: Portfolio
+      weight: 4
+      url: "https://vdonoladev.vercel.app/"
+      params:
+        icon: link
 
 params:
   search:
@@ -59,8 +88,8 @@ params:
     displayLogo: false
 
   footer:
-    displayCopyright: false
-    displayPoweredBy: false
+    displayCopyright: true
+    displayPoweredBy: true
 
   editURL:
     enable: false
