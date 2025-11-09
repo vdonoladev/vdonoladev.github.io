@@ -53,27 +53,6 @@ menu:
       url: "https://vdonoladev.vercel.app/"
       params:
         icon: link
-  sidebar:
-    - name: Instagram
-      weight: 1
-      url: "https://instagram.com/vdonoladev/"
-      params:
-        icon: instagram
-    - name: LinkedIn
-      weight: 2
-      url: "https://www.linkedin.com/in/vdonoladev/"
-      params:
-        icon: linkedin
-    - name: GitHub
-      weight: 3
-      url: "https://github.com/vdonoladev/"
-      params:
-        icon: github
-    - name: Portfolio
-      weight: 4
-      url: "https://vdonoladev.vercel.app/"
-      params:
-        icon: link
 
 params:
   search:
