@@ -2,6 +2,10 @@
 title: vdonoladev's Blog
 ---
 
+## Novembro de 2025
+
+- [Entre Planilhas e Códigos: construindo meu caminho entre Administração e Desenvolvimento](2025/11/09/entre-planilhas-e-codigos-construindo-meu-caminho-entre-administracao-e-desenvolvimento/)
+
 ## Setembro de 2025
 
 - [Dies Irae, o canto que encara a eternidade de frente](2025/09/15/dies-irae-o-canto-que-encara-a-eternidade-de-frente/)
