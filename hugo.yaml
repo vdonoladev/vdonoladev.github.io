@@ -5,6 +5,12 @@ baseURL: "https://vdonoladev.github.io"
 
 outputs:
   home: [HTML, RSS]
+  section: [HTML, RSS]
+
+rssLimit: 50
+copyright: "© 2020-2025 Víctor Donola Ferreira - All Rights Reserved"
+
+mainSections: ["2020", "2021", "2025"]
 
 # import hextra as module
 module:
@@ -33,26 +39,26 @@ menu:
       weight: 3
       params:
         type: search
-    - name: Instagram
-      weight: 4
-      url: "https://instagram.com/vdonoladev/"
-      params:
-        icon: instagram
     - name: LinkedIn
-      weight: 5
+      weight: 4
       url: "https://www.linkedin.com/in/vdonoladev/"
       params:
         icon: linkedin
     - name: GitHub
-      weight: 6
+      weight: 5
       url: "https://github.com/vdonoladev/"
       params:
         icon: github
     - name: Portfolio
-      weight: 7
+      weight: 6
       url: "https://vdonoladev.vercel.app/"
       params:
         icon: link
+    - name: RSS
+      weight: 7
+      url: "https://vdonoladev.github.io/index.xml"
+      params:
+        icon: rss
 
 params:
   search:
