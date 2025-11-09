@@ -19,29 +19,29 @@ markup:
 
 menu:
   main:
-    - name: Blog
-      pageRef: /blog
-      weight: 1
+    # - name: Blog
+    #   pageRef: /blog
+    #   weight: 1
     - name: Sobre
       pageRef: /about
-      weight: 2
+      weight: 1
+    # - name: Link's
+    #   url: "/links"
+    #   weight: 2
     - name: Contato
       url: "mailto:contato.victordonolaferreira@outlook.com"
-      weight: 4
-    - name: Link's
-      url: "/links"
       weight: 3
     - name: Search
-      weight: 5
+      weight: 4
       params:
         type: search
     - name: LinkedIn
-      weight: 6
+      weight: 5
       url: "https://www.linkedin.com/in/vdonoladev/"
       params:
         icon: linkedin
     - name: GitHub
-      weight: 7
+      weight: 6
       url: "https://github.com/vdonoladev/"
       params:
         icon: github

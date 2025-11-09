@@ -15,7 +15,6 @@ Olá! Seja bem-vindo à minha página de links. Aqui você encontra todas as for
 - 💻 [**Portfolio**](https://vdonoladev.vercel.app/) — Sites modernos, personalizados e otimizados
 - 💼 [**LinkedIn**](https://www.linkedin.com/in/vdonoladev/) — Profissional e networking  
 - 💻 [**GitHub**](https://github.com/vdonoladev) — Repositórios e projetos  
-- ✒️ [**Medium**](https://medium.com/@vdonoladev) — Artigos e publicações técnicas  
 - 🎨 [**CodePen**](https://codepen.io/vdonoladev) — Demos e front-end interativo  
 - 📝 [**GitHub Gist**](https://gist.github.com/vdonoladev) — Trechos e anotações úteis
 
