@@ -1,5 +1,5 @@
 ---
-title: vdonoladev's Blog
+title: Sintaxe & Fé
 ---
 
 ## Novembro de 2025
