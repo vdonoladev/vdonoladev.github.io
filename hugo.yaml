@@ -8,9 +8,9 @@ outputs:
   section: [HTML, RSS]
 
 rssLimit: 50
-copyright: "© 2020-2025 Víctor Donola Ferreira - All Rights Reserved"
+copyright: "© 2020-2026 Víctor Donola Ferreira - All Rights Reserved"
 
-mainSections: ["2020", "2021", "2025"]
+mainSections: ["2020", "2021", "2025", "2026"]
 
 # import hextra as module
 module:
@@ -49,11 +49,6 @@ menu:
       url: "https://github.com/vdonoladev/"
       params:
         icon: github
-    - name: Portfolio
-      weight: 6
-      url: "https://vdonoladev.vercel.app/"
-      params:
-        icon: link
     - name: RSS
       weight: 7
       url: "https://vdonoladev.github.io/index.xml"
@@ -81,7 +76,7 @@ params:
     base: "https://github.com/imfing/hextra-starter-template/edit/main/content"
 
   theme:
-    default: light
+    default: auto
 
   author:
     name: Víctor Donola Ferreira
